@@ -6,6 +6,8 @@ import java.util.List;
 import java.util.function.Predicate;
 
 /**
+ * 자바 8을 눈여겨봐야 하는 이유
+ *
  * Created by freejava1191@gmail.com on 2019-06-03
  * Blog : https://freedeveloper.tistory.com/
  * GitHub : https://github.com/freelife1191
